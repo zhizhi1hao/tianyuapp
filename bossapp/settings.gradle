@@ -1,1 +1,1 @@
-include ':app', 'systembarlibrary', 'MPAndroidChart_master'
+include ':app', 'systembarlibrary', 'mpachartlib'
